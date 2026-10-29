@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Desktop\academia\bin\Debug\net6.0\academia.exe
+C:\Users\ALUNO\Desktop\academia\bin\Debug\net6.0\academia.deps.json
+C:\Users\ALUNO\Desktop\academia\bin\Debug\net6.0\academia.runtimeconfig.json
+C:\Users\ALUNO\Desktop\academia\bin\Debug\net6.0\academia.dll
+C:\Users\ALUNO\Desktop\academia\bin\Debug\net6.0\academia.pdb
+C:\Users\ALUNO\Desktop\academia\obj\Debug\net6.0\academia.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\academia\obj\Debug\net6.0\academia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Desktop\academia\obj\Debug\net6.0\academia.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Desktop\academia\obj\Debug\net6.0\academia.AssemblyInfo.cs
+C:\Users\ALUNO\Desktop\academia\obj\Debug\net6.0\academia.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\academia\obj\Debug\net6.0\academia.dll
+C:\Users\ALUNO\Desktop\academia\obj\Debug\net6.0\refint\academia.dll
+C:\Users\ALUNO\Desktop\academia\obj\Debug\net6.0\academia.pdb
+C:\Users\ALUNO\Desktop\academia\obj\Debug\net6.0\academia.genruntimeconfig.cache
+C:\Users\ALUNO\Desktop\academia\obj\Debug\net6.0\ref\academia.dll
